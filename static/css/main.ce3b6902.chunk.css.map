@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,MACE,wBAAyB,CACzB,YAAa,CACb,UAAW,CACX,gBAAiB,CACjB,iBACF","file":"main.ce3b6902.chunk.css","sourcesContent":[".hero {\n  background-color: #f8f9fa;\n  height: 200px;\n  width: 100%;\n  padding-top: 50px;\n  text-align: center;\n}\n"]}

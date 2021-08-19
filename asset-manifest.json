@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Rubiks-cube/static/css/main.ce3b6902.chunk.css",
+    "main.js": "/Rubiks-cube/static/js/main.faefd69f.chunk.js",
+    "main.js.map": "/Rubiks-cube/static/js/main.faefd69f.chunk.js.map",
+    "runtime-main.js": "/Rubiks-cube/static/js/runtime-main.195ea42a.js",
+    "runtime-main.js.map": "/Rubiks-cube/static/js/runtime-main.195ea42a.js.map",
+    "static/css/2.983f79de.chunk.css": "/Rubiks-cube/static/css/2.983f79de.chunk.css",
+    "static/js/2.11b60053.chunk.js": "/Rubiks-cube/static/js/2.11b60053.chunk.js",
+    "static/js/2.11b60053.chunk.js.map": "/Rubiks-cube/static/js/2.11b60053.chunk.js.map",
+    "index.html": "/Rubiks-cube/index.html",
+    "static/css/2.983f79de.chunk.css.map": "/Rubiks-cube/static/css/2.983f79de.chunk.css.map",
+    "static/css/main.ce3b6902.chunk.css.map": "/Rubiks-cube/static/css/main.ce3b6902.chunk.css.map",
+    "static/js/2.11b60053.chunk.js.LICENSE.txt": "/Rubiks-cube/static/js/2.11b60053.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.195ea42a.js",
+    "static/css/2.983f79de.chunk.css",
+    "static/js/2.11b60053.chunk.js",
+    "static/css/main.ce3b6902.chunk.css",
+    "static/js/main.faefd69f.chunk.js"
+  ]
+}
